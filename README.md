@@ -2,7 +2,7 @@
 
 ![Logo](https://www.jto.co.id/wp-content/uploads/2023/11/gopay-logo.png)
 
-Last Update : 7 Juni 2024
+Last Update : 12 Juni 2024
 
 Source code : Yes
 
