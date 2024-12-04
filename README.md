@@ -33,6 +33,4 @@ Karena banyaknya permintaan, dan susahnya untuk bypass API Gojek Gopay yang baru
 
 Contact me
 
-Whatsapp : +62 857-6237-1677
-
 Telegram : [https://t.me/PengenAir](https://t.me/PengenAir)
